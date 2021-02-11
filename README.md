@@ -2,7 +2,7 @@
  
 ### Project developed in PL / SQL: <br />
 * Building a management of a zoo chain;  <br />
-* Exercises covering: 
+* Covered exercises: 
      * functions;
      * procedures;
      * triggers;
